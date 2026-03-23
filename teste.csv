@@ -1,0 +1,51 @@
+Data Venda;Produto;Categoria;Quantidade;Preço Unitário;Vendedor;Cidade;valor vendido 
+2025-06-01;Tênis Running;Calçados;8;R$ 1.382,88;Diego Lima;Surubim;11063,04
+2025-06-08;Jaqueta Corta Vento;Vestuário;9;R$ 2.996,70;Ingrid Rocha;Caruaru;26970,3
+2025-06-08;Liquidificador;Eletrodoméstico;7;R$ 2.185,72;Ingrid Rocha;Pesqueira;15300,04
+2025-06-13;Calça Jeans;Vestuário;6;R$ 3.444,56;Henrique Dias;Caruaru;20667,36
+2025-06-19;Liquidificador;Eletrodoméstico;5;R$ 1.752,55;Erika Souza;Olinda;8762,75
+2025-06-04;Jaqueta Corta Vento;Vestuário;1;R$ 246,76;Henrique Dias;Gravatá;246,76
+2025-06-24;Jaqueta Corta Vento;Vestuário;2;R$ 3.167,70;Henrique Dias;Arcoverde;6335,4
+2025-06-21;Notebook X100;Eletrônicos;2;R$ 468,28;Bruno Mendes;Surubim;936,56
+2025-06-26;Tênis Running;Calçados;6;R$ 640,61;Erika Souza;Goiana;3843,66
+2025-06-18;Micro-ondas;Eletrodoméstico;7;R$ 2.607,32;Ingrid Rocha;Cabo de Santo Agostinho;18251,24
+2025-06-15;Micro-ondas;Eletrodoméstico;1;R$ 3.135,96;Fábio Martins;Palmares;3135,96
+2025-06-28;Sandália Feminina;Calçados;6;R$ 1.449,06;Ana Carvalho;Goiana;8694,36
+2025-06-25;Micro-ondas;Eletrodoméstico;8;R$ 1.272,12;Diego Lima;Abreu e Lima;10176,96
+2025-06-02;Smartphone Z20;Eletrônicos;1;R$ 1.312,16;Ingrid Rocha;Pesqueira;1312,16
+2025-06-05;Camiseta Polo;Vestuário;9;R$ 734,53;Giovana Alves;Paulista;6610,77
+2025-06-15;Camiseta Polo;Vestuário;5;R$ 2.942,38;Erika Souza;Camaragibe;14711,9
+2025-06-30;Smartwatch Fit;Eletrônicos;10;R$ 3.314,24;Giovana Alves;Gravatá;33142,4
+2025-06-19;Camiseta Polo;Vestuário;6;R$ 1.098,60;João Pedro;Camaragibe;6591,6
+2025-06-20;Notebook X100;Eletrônicos;7;R$ 2.372,21;Fábio Martins;Gravatá;16605,47
+2025-06-06;Sandália Feminina;Calçados;7;R$ 1.982,41;Erika Souza;Igarassu;13876,87
+2025-06-09;Jaqueta Corta Vento;Vestuário;4;R$ 1.508,08;Bruno Mendes;Surubim;6032,32
+2025-06-25;Sandália Feminina;Calçados;2;R$ 934,37;Erika Souza;Santa Cruz do Capibaribe;1868,74
+2025-06-05;Smartwatch Fit;Eletrônicos;9;R$ 3.368,08;Giovana Alves;Olinda;30312,72
+2025-06-06;Jaqueta Corta Vento;Vestuário;4;R$ 3.497,89;Ingrid Rocha;Igarassu;13991,56
+2025-06-02;Smartwatch Fit;Eletrônicos;10;R$ 1.475,95;João Pedro;Petrolina;14759,5
+2025-06-25;Camiseta Polo;Vestuário;6;R$ 2.542,88;Carla Freitas;Petrolina;15257,28
+2025-06-20;Micro-ondas;Eletrodoméstico;1;R$ 834,85;Henrique Dias;Recife;834,85
+2025-06-28;Jaqueta Corta Vento;Vestuário;4;R$ 894,03;João Pedro;Arcoverde;3576,12
+2025-06-16;Calça Jeans;Vestuário;7;R$ 2.723,62;Diego Lima;Recife;19065,34
+2025-06-27;Camiseta Polo;Vestuário;4;R$ 1.725,21;Giovana Alves;Vitória de Santo Antão;6900,84
+2025-06-28;Calça Jeans;Vestuário;4;R$ 3.432,16;Bruno Mendes;Igarassu;13728,64
+2025-06-12;Camiseta Polo;Vestuário;10;R$ 3.340,25;Carla Freitas;Goiana;33402,5
+2025-06-23;Micro-ondas;Eletrodoméstico;3;R$ 1.624,64;Bruno Mendes;Recife;4873,92
+2025-06-20;Liquidificador;Eletrodoméstico;3;R$ 907,67;Fábio Martins;Igarassu;2723,01
+2025-06-24;Micro-ondas;Eletrodoméstico;3;R$ 2.627,61;Ingrid Rocha;Camaragibe;7882,83
+2025-06-25;Smartwatch Fit;Eletrônicos;5;R$ 1.760,50;Fábio Martins;Petrolina;8802,5
+2025-06-19;Smartwatch Fit;Eletrônicos;9;R$ 170,78;Erika Souza;Jaboatão dos Guararapes;1537,02
+2025-06-17;Tênis Running;Calçados;6;R$ 2.516,52;Fábio Martins;São Lourenço da Mata;15099,12
+2025-06-13;Tênis Running;Calçados;4;R$ 2.366,08;Diego Lima;Santa Cruz do Capibaribe;9464,32
+2025-06-22;Liquidificador;Eletrodoméstico;1;R$ 2.649,91;Diego Lima;Jaboatão dos Guararapes;2649,91
+2025-06-18;Liquidificador;Eletrodoméstico;10;R$ 1.527,79;Carla Freitas;Vitória de Santo Antão;15277,9
+2025-06-23;Jaqueta Corta Vento;Vestuário;10;R$ 304,05;João Pedro;Igarassu;3040,5
+2025-06-13;Micro-ondas;Eletrodoméstico;10;R$ 2.478,80;Fábio Martins;Camaragibe;24788
+2025-06-09;Micro-ondas;Eletrodoméstico;1;R$ 356,73;João Pedro;Petrolina;356,73
+2025-06-14;Notebook X100;Eletrônicos;10;R$ 3.015,57;Giovana Alves;Camaragibe;30155,7
+2025-06-26;Smartphone Z20;Eletrônicos;8;R$ 2.562,31;João Pedro;Olinda;20498,48
+2025-06-19;Calça Jeans;Vestuário;9;R$ 1.834,15;Giovana Alves;Arcoverde;16507,35
+2025-06-01;Calça Jeans;Vestuário;8;R$ 2.325,86;Fábio Martins;Abreu e Lima;18606,88
+2025-06-26;Smartwatch Fit;Eletrônicos;2;R$ 170,74;Ana Carvalho;Cabo de Santo Agostinho;341,48
+2025-06-24;Calça Jeans;Vestuário;9;R$ 626,61;Bruno Mendes;Pesqueira;5639,49
