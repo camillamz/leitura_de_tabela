@@ -16,7 +16,20 @@ df = pd.read_csv("teste.csv",
     sep=";"
 )
 
-# Exibe a tabela
-print(df)
+# Exibindo dados da tabela 
+print('--'*50)
+print('Exibir as 5 Primeiras linhas')
+print(df.head())
 
 
+print('--'*50)
+print('Exibir as ultimas linhas')
+print(df.tail())
+
+
+print('--'*50)
+print('Exibir dados estatísticos')
+print(df.describe().round(2))
+
+print('--'*50)
+print(f'O arquivo tem: {len(df)} linhas')
